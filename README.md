@@ -1,4 +1,6 @@
 # RealAgenciesCollection
+KSP 1.2.2
+
 Simple agency configs for Kerbal Space Program and its Realism Overhaul Mod Suite
 
 This simple set of agency configs contains a multitude of real world companies involved in rocketry.
