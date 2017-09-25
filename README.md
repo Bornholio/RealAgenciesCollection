@@ -13,7 +13,7 @@ There are both 'original' as well as merged or fused companies and conglomerates
 
 
 
-List of currently available companies: (WIP)
+List of currently available companies:
 
 - Army Ballisic Missile Agency (ABMA)
 - Aerojet
@@ -23,21 +23,32 @@ List of currently available companies: (WIP)
 - ArianeGroup
 - Arianespace
 - Astrium
+- BAE Systems
+- Boeing
 - Convair
 - EADS
+- GE Aviation
 - International Launch Services (ILS)
 - Khrunichev
+- Lockheed
+- Lockheed Martin
 - NPO Lavochkin
 - Martin USA
 - North American Aviation (NAA)
 - North American Rockwell Space Division (NAR)
+- Northrop Grumman
 - NPO Energomash
+- Orbital ATK
 - PO Polyot
+- Pratt & Whitney
+- Raytheon
 - Rocketdyne
 - Rockwell International
+- Rolls Royce
 - Roscosmos
 - Thiokol
 - United Launch Alliance (ULA)
+- United Technologies
 
 
 
