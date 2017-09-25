@@ -11,8 +11,29 @@ The agencies' mentality was rather arbitrarily chosen, feel free to chime in.
 The respective logos are taken from wikipedia and were resized and rescaled by myself.
 
 
-List of currently available companies:
-- WIP
+List of currently available companies: (WIP)
+- Army Ballisic Missile Agency (ABMA)
+- Aerojet
+- Airbus
+- Airbus Defence and Space
+- ArianeGroup
+- Arianespace
+- Astrium
+- Convair
+- EADS
+- International Launch Services (ILS)
+- Khrunichev
+- NPO Lavochkin
+- Martin USA
+- North American Aviation (NAA)
+- North American Rockwell Space Division (NAR)
+- NPO Energomash
+- PO Polyot
+- Rocketdyne
+- Rockwell International
+- Roscosmos
+- Thiokol
+- United Launch Alliance (ULA)
 
 
 
