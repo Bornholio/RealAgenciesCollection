@@ -11,6 +11,11 @@ The agencies' mentality was rather arbitrarily chosen, feel free to chime in.
 The respective logos are taken from wikipedia and were resized and rescaled by myself.
 
 
+List of currently available companies:
+- WIP
+
+
+
 Credits:
 All respective companies. As well as everyone who made a logo for use in wikipedia.
 Squad for making the game in the first place.
