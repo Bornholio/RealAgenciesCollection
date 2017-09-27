@@ -3,13 +3,15 @@
 - KSP 1.2.2
 - Intended For use with the RealismOverhaul mod suite
 
-Simple set of agency configs for Kerbal Space Program and its RealismOverhaul Mod Suite
+This is a simple set of agency-configurations for Kerbal Space Program and its RealismOverhaul Mod Suite.
+Parts with appropriately set up manufacturer tags will show up in the VABs manufacturer selection tab, including the manufacturer logo.
+Depending on the agnecies 'mentality' setup, it might show up in mission control and give some missions.
+Furthermore, all agencies can be chosen as 'Mission flag'.
 
-This simple set of agency configs contains a multitude of real world companies involved in rocketry and aeronautics.
 The descriptions are short versions taken from the first few lines from their respective wikipedia entrys.
 The agencies' mentality was rather arbitrarily chosen, feel free to chime in.
 The respective logos are taken from wikipedia and were resized and rescaled by myself.
-There are both 'original' as well as merged or fused companies and conglomerates (example: Aerojet and Rocketdyne)
+There are both 'original' as well as merged, fused or deprecated companies and conglomerates.
 
 
 
@@ -49,6 +51,12 @@ List of currently available companies:
 - Thiokol
 - United Launch Alliance (ULA)
 - United Technologies
+
+
+
+Installing instructions:
+Standard procedures apply, first delete any old installments.
+Download the latest release on github (https://github.com/h0yer/RealAgenciesCollection/releases), open the zip file and copy the containing 'RealAgenciesCollection' folder into your "\KSP\Gamedata\..." folder, retaining subfolder structure.
 
 
 
