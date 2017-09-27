@@ -67,7 +67,7 @@ List of currently available companies:
 
 Installing instructions:
 Standard procedures apply, first delete any old installments.
-Unzip the 'RealAgenciesCollection' folder from within the zip file into your "\KSP\Gamedata\..." folder, retaining subfolder structure. Launch the game. Smirk for a while.
+Unzip the 'RealAgenciesCollection' folder from within the zip file into your '\KSP\Gamedata\...' folder, retaining subfolder structure. Launch the game. Smirk for a while.
 
 
 
