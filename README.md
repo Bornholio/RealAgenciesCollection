@@ -57,6 +57,7 @@ Credits:
 To all respective companies, as well as everyone who made a logo for use in wikipedia.
 Squad for making the game in the first place.
 Everyone involved in the RealismOverhaul mod suite.
+More detailed crediting info can be found in the "Credits.txt" file contained in this repository.
 
 Special thanks:
 TiktaalikDreaming (KSP-forum and GitHub) for providing the North American Rockwell logos.
