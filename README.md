@@ -66,6 +66,7 @@ List of currently available companies:
 - NPO Almaz
 - NPO Energomash
 - NPO Lavochkin
+- NPO Mashinostroyeniya
 - Orbital ATK
 - PA Polyot
 - PA Yuzhmash
