@@ -38,20 +38,26 @@ List of currently available companies:
 - EADS
 - EADS Astrium
 - Energia
-- GE Aviation
+- General Electric Aviation
+- General Electric
+- Godrej
 - Grumman
 - Honeywell Aerospace
 - IBM
 - International Launch Services (ILS)
+- Indian Space Research Organisation (ISRO)
+- KB Khimavtomatika
 - KB KhimMash
 - KB Yuzhnoye
 - Khrunichev
+- L3 Electron Devices (L3 EDD)
 - Lockheed
 - Lockheed Martin
 - Martin USA
 - Martin Marietta
 - McDonnell
 - McDonnell Douglas
+- Mitsubishi
 - North American Aviation (NAA)
 - North American Rockwell Space Division (NAR)
 - Northrop Grumman
@@ -72,9 +78,11 @@ List of currently available companies:
 - Snecma
 - SNTK Kuznetsov
 - SpaceX
+- Teledyne Technologies
 - Thiokol
 - United Launch Alliance (ULA)
 - United Technologies
+- U.S. Department Of Energy (DOE)
 
 
 
