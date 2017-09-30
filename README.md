@@ -33,6 +33,7 @@ List of currently available companies:
 - Boeing
 - Boeing IDS
 - Bristol Siddeley
+- CalTech
 - Convair
 - Douglas
 - EADS
@@ -57,6 +58,7 @@ List of currently available companies:
 - Martin Marietta
 - McDonnell
 - McDonnell Douglas
+- MIT
 - Mitsubishi
 - North American Aviation (NAA)
 - North American Rockwell Space Division (NAR)
@@ -80,6 +82,7 @@ List of currently available companies:
 - SpaceX
 - Teledyne Technologies
 - Thiokol
+- TsSKB-Progress
 - United Launch Alliance (ULA)
 - United Technologies
 - U.S. Department Of Energy (DOE)
