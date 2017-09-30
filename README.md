@@ -27,38 +27,50 @@ List of currently available companies:
 - ArianeGroup
 - Arianespace
 - BAE Systems
+- Bell Aircraft
+- Bendix Aviation
 - Blue Origin
 - Boeing
 - Boeing IDS
+- Bristol Siddeley
 - Convair
 - Douglas
 - EADS
 - EADS Astrium
 - Energia
 - GE Aviation
+- Grumman
 - Honeywell Aerospace
+- IBM
 - International Launch Services (ILS)
+- KB KhimMash
+- KB Yuzhnoye
 - Khrunichev
-- Kuznetsov
 - Lockheed
 - Lockheed Martin
-- NPO Lavochkin
 - Martin USA
 - Martin Marietta
+- McDonnell
+- McDonnell Douglas
 - North American Aviation (NAA)
 - North American Rockwell Space Division (NAR)
 - Northrop Grumman
 - NPO Almaz
 - NPO Energomash
+- NPO Lavochkin
 - Orbital ATK
-- PO Polyot
+- PA Polyot
+- PA Yuzhmash
 - Pratt & Whitney
 - Raytheon
+- RKK Energia
 - Rocketdyne
 - Rockwell International
 - Rolls-Royce
 - Roscosmos
 - Safran
+- Snecma
+- SNTK Kuznetsov
 - SpaceX
 - Thiokol
 - United Launch Alliance (ULA)
