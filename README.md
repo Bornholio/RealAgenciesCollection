@@ -48,6 +48,7 @@ List of currently available agencies:
 - International Launch Services (ILS)
 - Indian Space Research Organisation (ISRO)
 - Information Satellite Systems Reshetnev (ISSR)
+- Jet Propulsion Lab (JPL)
 - KB Khimavtomatika
 - KB KhimMash
 - KB Yuzhnoye
