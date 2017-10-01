@@ -16,7 +16,7 @@ There are both 'original' as well as merged, fused or deprecated companies and c
 
 
 
-List of currently available companies:
+List of currently available agencies:
 
 - Army Ballisic Missile Agency (ABMA)
 - ATK
@@ -33,20 +33,21 @@ List of currently available companies:
 - Boeing
 - Boeing IDS
 - Bristol Siddeley
-- CalTech
+- California Institute of Technology (CalTech)
 - Convair
+- Delco Electronics
 - Douglas
 - EADS
 - EADS Astrium
-- Energia
 - General Electric Aviation
 - General Electric
 - Godrej
 - Grumman
-- Honeywell Aerospace
+- Honeywell
 - IBM
 - International Launch Services (ILS)
 - Indian Space Research Organisation (ISRO)
+- Information Satellite Systems Reshetnev (ISSR)
 - KB Khimavtomatika
 - KB KhimMash
 - KB Yuzhnoye
@@ -54,11 +55,12 @@ List of currently available companies:
 - L3 Electron Devices (L3 EDD)
 - Lockheed
 - Lockheed Martin
+- Los Alamos National Laboratory (LANL)
 - Martin USA
 - Martin Marietta
+- Massachusetts Institute of Technology (MIT)
 - McDonnell
 - McDonnell Douglas
-- MIT
 - Mitsubishi
 - North American Aviation (NAA)
 - North American Rockwell Space Division (NAR)
@@ -87,6 +89,7 @@ List of currently available companies:
 - United Launch Alliance (ULA)
 - United Technologies
 - U.S. Department Of Energy (DOE)
+- U.S. Naval Research Laboratory (NRL)
 
 
 
@@ -100,6 +103,7 @@ Smirk for a while.
 
 Issues:
 None so far.
+If you use texture compression/memory saving gadgets, you might want to add RAC to the exceptions list, otherwise the logos might look bad.
 
 Creator:
 Jan Hoyer (KSP-forums: h0yer; GitHub: h0yer)
