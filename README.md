@@ -1,8 +1,8 @@
-# Real Agencies Collection v1.0.3
+# Real Agencies Collection v1.1.0
 
-- KSP 1.2.2
+- KSP 1.3.0
+- Localization
 - Intended for use with the RealismOverhaul mod suite but works without.
-
 
 This is a simple collection of agency-configurations for Kerbal Space Program and its RealismOverhaul Mod Suite.
 Parts with appropriately set up manufacturer tags will show up in the VAB's manufacturer selection tab, including the manufacturer logo.
