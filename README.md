@@ -39,6 +39,7 @@ List of currently available agencies:
 - Douglas
 - EADS
 - EADS Astrium
+- European Space Agency (ESA)
 - General Electric Aviation
 - General Electric
 - Godrej
@@ -64,6 +65,7 @@ List of currently available agencies:
 - McDonnell Douglas
 - Mitsubishi
 - Moog
+- NASA
 - North American Aviation (NAA)
 - North American Rockwell Space Division (NAR)
 - Northrop Grumman
