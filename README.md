@@ -39,6 +39,7 @@ List of currently available agencies:
 - Douglas
 - EADS
 - EADS Astrium
+- European Space Agency (ESA)
 - General Electric Aviation
 - General Electric
 - Godrej
@@ -48,6 +49,7 @@ List of currently available agencies:
 - International Launch Services (ILS)
 - Indian Space Research Organisation (ISRO)
 - Information Satellite Systems Reshetnev (ISSR)
+- Jet Propulsion Lab (JPL)
 - KB Khimavtomatika
 - KB KhimMash
 - KB Yuzhnoye
@@ -63,6 +65,7 @@ List of currently available agencies:
 - McDonnell Douglas
 - Mitsubishi
 - Moog
+- NASA
 - North American Aviation (NAA)
 - North American Rockwell Space Division (NAR)
 - Northrop Grumman
