@@ -62,6 +62,7 @@ List of currently available agencies:
 - McDonnell
 - McDonnell Douglas
 - Mitsubishi
+- Moog
 - North American Aviation (NAA)
 - North American Rockwell Space Division (NAR)
 - Northrop Grumman
@@ -75,6 +76,7 @@ List of currently available agencies:
 - Pratt & Whitney
 - Raytheon
 - RKK Energia
+- RocketLab
 - Rocketdyne
 - Rockwell International
 - Rolls-Royce
@@ -95,15 +97,17 @@ List of currently available agencies:
 
 Installing instructions:
 Standard procedures apply, first delete any old installments.
-Unzip the 'RealAgenciesCollection' folder from within the zip file into your "\KSP\Gamedata\..." folder, keeping subfolder structure.
-Launch the game.
-Smirk for a while.
+Unzip the 'RealAgenciesCollection' folder from within the downloaded archive into your "\KSP\Gamedata\..." folder, keeping subfolder structure. Launch the game. Smirk for a while.
 
 
 
 Issues:
 None so far.
 If you use texture compression/memory saving gadgets, you might want to add RAC to the exceptions list, otherwise the logos might look bad.
+
+Support:
+If you find any bugs or other shenanigans, feel free to post them on the forum or make a pull request on GitHub.
+
 
 Creator:
 Jan Hoyer (KSP-forums: h0yer; GitHub: h0yer)
