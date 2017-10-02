@@ -31,9 +31,11 @@ List of currently available agencies:
 - Blue Origin
 - Boeing
 - Boeing IDS
+- Bosch
 - Bristol Siddeley
 - California Institute of Technology (CalTech)
 - Convair
+- Daimler-Benz
 - Delco Electronics
 - Douglas
 - EADS
@@ -86,6 +88,7 @@ List of currently available agencies:
 - Rolls-Royce
 - Roscosmos
 - Safran
+- Siemens
 - Snecma
 - SNTK Kuznetsov
 - SpaceX
