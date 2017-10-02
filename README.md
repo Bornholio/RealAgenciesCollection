@@ -44,6 +44,7 @@ List of currently available agencies:
 - Godrej
 - Grumman
 - Honeywell
+- HVA Peenemünde
 - IBM
 - International Launch Services (ILS)
 - Indian Space Research Organisation (ISRO)
@@ -63,6 +64,7 @@ List of currently available agencies:
 - McDonnell
 - McDonnell Douglas
 - Mitsubishi
+- Mittelwerk GmbH
 - Moog
 - NASA
 - North American Aviation (NAA)
