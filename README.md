@@ -1,7 +1,6 @@
-# Real Agencies Collection v1.1.0
+# Real Agencies Collection v1.0.3
 
-- KSP 1.3.0
-- Localization
+- KSP 1.2.2
 - Intended for use with the RealismOverhaul mod suite but works without.
 
 This is a simple collection of agency-configurations for Kerbal Space Program and its RealismOverhaul Mod Suite.
@@ -19,13 +18,13 @@ There are both 'original' as well as merged, fused or deprecated companies and c
 List of currently available agencies:
 
 - Army Ballisic Missile Agency (ABMA)
-- ATK
 - Aerojet
 - Aerojet-Rocketdyne
 - Airbus
 - Airbus Defence & Space
 - ArianeGroup
 - Arianespace
+- ATK
 - BAE Systems
 - Bell Aircraft
 - Bendix Aviation
@@ -45,6 +44,7 @@ List of currently available agencies:
 - Godrej
 - Grumman
 - Honeywell
+- HVA Peenemünde
 - IBM
 - International Launch Services (ILS)
 - Indian Space Research Organisation (ISRO)
@@ -64,6 +64,7 @@ List of currently available agencies:
 - McDonnell
 - McDonnell Douglas
 - Mitsubishi
+- Mittelwerk GmbH
 - Moog
 - NASA
 - North American Aviation (NAA)
