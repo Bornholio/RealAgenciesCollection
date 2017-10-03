@@ -1,0 +1,14 @@
+{
+  "NAME": "Real Agencies Collection",
+  "URL": "https://raw.githubusercontent.com/h0yer/RealAgenciesCollection/master/RealAgenciesCollection/RealAgenciesCollection.version",
+  "VERSION": {
+    "MAJOR": 1,
+    "MINOR": 0,
+    "PATCH": 3
+  },
+  "KSP_VERSION": {
+    "MAJOR": 1,
+    "MINOR": 2,
+    "PATCH": 2
+  }
+}
