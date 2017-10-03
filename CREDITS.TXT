@@ -45,11 +45,15 @@ Grumman, By Source, Fair use, https://en.wikipedia.org/w/index.php?curid=1912807
 
 Honeywell Aerospace, By The original uploader was -Majestic- at English Wikipedia - Transferred from en.wikipedia to Commons. (Original Image), Public Domain, https://commons.wikimedia.org/w/index.php?curid=6905468
 
+Hughes Aircraft, By Hughes Aircraft Company - Company Literature, Public Domain, https://commons.wikimedia.org/w/index.php?curid=22252395
+
 IBM, By Paul Rand (A note on IBM website) - Captured from the front page of the IBM Notice of 2007 Annual Meeting and Proxy Statement., Public Domain, https://commons.wikimedia.org/w/index.php?curid=2353404
 
 ISS Reshetnev, By Source (WP:NFCC#4), Fair use, https://en.wikipedia.org/w/index.php?curid=53981337
 
 Jet Propulsion Lab, By The original uploader was King of Hearts at English Wikipedia - Transferred from en.wikipedia to Commons., Public Domain, https://commons.wikimedia.org/w/index.php?curid=10879742
+
+Krasmash, By Source (WP:NFCC#4), Fair use, https://en.wikipedia.org/w/index.php?curid=54760666
 
 RKK Energia, Fair use, https://en.wikipedia.org/w/index.php?curid=2440062
 
@@ -87,6 +91,8 @@ NPO Lavochkin, By Source (WP:NFCC#4), Fair use, https://en.wikipedia.org/w/index
 
 NPO Mashinostroyeniya, By Source (WP:NFCC#4), Fair use, https://en.wikipedia.org/w/index.php?curid=53907476
 
+Orbital Sciences, By Source (WP:NFCC#4), Fair use, https://en.wikipedia.org/w/index.php?curid=41596179
+
 SNTK Kuznetsov, By Source (WP:NFCC#4), Fair use, https://en.wikipedia.org/w/index.php?curid=53923515
 
 SpaceX, By SpaceX - transferred from English Wikipedia, Public Domain, https://commons.wikimedia.org/w/index.php?curid=40431734
@@ -94,6 +100,8 @@ SpaceX, By SpaceX - transferred from English Wikipedia, Public Domain, https://c
 Teledyne Technologies, By Source, Fair use, https://en.wikipedia.org/w/index.php?curid=27115555
 
 TsSKB-Progress, By Source (WP:NFCC#4), Fair use, https://en.wikipedia.org/w/index.php?curid=53761986
+
+Voronezh Mechanical Plant, By Source (WP:NFCC#4), Fair use, https://en.wikipedia.org/w/index.php?curid=53875280
 
 Yuzhnoye, By National Bank of Ukraine - http://www.bank.gov.ua/Bank_mn/YUV_M/yuv_mon.htm, Public Domain, https://commons.wikimedia.org/w/index.php?curid=6648346
 
