@@ -34,6 +34,7 @@ List of currently available agencies:
 - Bosch
 - Bristol Siddeley
 - California Institute of Technology (CalTech)
+- Chrysler
 - Convair
 - Daimler-Benz
 - Delco Electronics
@@ -46,6 +47,7 @@ List of currently available agencies:
 - Godrej
 - Grumman
 - Honeywell
+- Hughes
 - HVA Peenemünde
 - IBM
 - International Launch Services (ILS)
@@ -56,6 +58,7 @@ List of currently available agencies:
 - KB KhimMash
 - KB Yuzhnoye
 - Khrunichev
+- Krasmash
 - L3 Electron Devices (L3 EDD)
 - Lockheed
 - Lockheed Martin
@@ -63,6 +66,7 @@ List of currently available agencies:
 - Martin USA
 - Martin Marietta
 - Massachusetts Institute of Technology (MIT)
+- Matra Marconi Space
 - McDonnell
 - McDonnell Douglas
 - Mitsubishi
@@ -77,6 +81,7 @@ List of currently available agencies:
 - NPO Lavochkin
 - NPO Mashinostroyeniya
 - Orbital ATK
+- Orbital Sciences
 - PA Polyot
 - PA Yuzhmash
 - Pratt & Whitney
@@ -87,6 +92,7 @@ List of currently available agencies:
 - Rockwell International
 - Rolls-Royce
 - Roscosmos
+- RUAG Space
 - Safran
 - Siemens
 - Snecma
@@ -99,6 +105,7 @@ List of currently available agencies:
 - United Technologies
 - U.S. Department Of Energy (DOE)
 - U.S. Naval Research Laboratory (NRL)
+- Voronezh Mechanical Plant
 
 
 
