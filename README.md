@@ -22,23 +22,29 @@ List of currently available agencies:
 - Aerojet-Rocketdyne
 - Airbus
 - Airbus Defence & Space
+- Ames Research Center
+- Applied Physics Lab
 - ArianeGroup
 - Arianespace
+- Italian space Agency (ASI)
 - ATK
 - BAE Systems
 - Bell Aircraft
 - Bendix Aviation
+- Bigelow Aerospace
 - Blue Origin
 - Boeing
 - Boeing IDS
 - Bosch
 - Bristol Siddeley
+- China Academy of Launch Vehicle Technology (CALT)
 - California Institute of Technology (CalTech)
 - Chrysler
 - Convair
 - Daimler-Benz
 - Delco Electronics
 - Douglas
+- Dynetics
 - EADS
 - EADS Astrium
 - European Space Agency (ESA)
@@ -46,10 +52,12 @@ List of currently available agencies:
 - General Electric
 - Godrej
 - Grumman
+- Hercules
 - Honeywell
 - Hughes
 - HVA Peenemünde
 - IBM
+- Ishikawajima-Harima Heavy Industries (IHI)
 - International Launch Services (ILS)
 - Indian Space Research Organisation (ISRO)
 - Information Satellite Systems Reshetnev (ISSR)
@@ -65,13 +73,16 @@ List of currently available agencies:
 - Los Alamos National Laboratory (LANL)
 - Martin USA
 - Martin Marietta
+- Marquardt Corporation
 - Massachusetts Institute of Technology (MIT)
 - Matra Marconi Space
 - McDonnell
 - McDonnell Douglas
+- MDA Space Missions
 - Mitsubishi
 - Mittelwerk GmbH
 - Moog
+- MT Aerospace
 - NASA
 - North American Aviation (NAA)
 - North American Rockwell Space Division (NAR)
@@ -99,6 +110,7 @@ List of currently available agencies:
 - SNTK Kuznetsov
 - SpaceX
 - Teledyne Technologies
+- Thales Alenia Space
 - Thiokol
 - TsSKB-Progress
 - United Launch Alliance (ULA)
