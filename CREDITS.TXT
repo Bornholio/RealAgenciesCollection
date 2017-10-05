@@ -11,6 +11,8 @@ Airbus SE, By Airbus SEvector version by User:BegbertBiggs based on File:Airbus 
 
 Airbus Defence and Space,By Source, Fair use, https://en.wikipedia.org/w/index.php?curid=42984483
 
+Applied Physics Lab, By Source (WP:NFCC#4), Fair use, https://en.wikipedia.org/w/index.php?curid=42379029
+
 Arianegroup, By Source, Fair use, https://en.wikipedia.org/w/index.php?curid=54374194
 
 ArianeSpace, By Source, Fair use, https://en.wikipedia.org/w/index.php?curid=27532952
@@ -20,6 +22,8 @@ ATK, By ATK - ATK 2008 Annual Report to Stockholders, Public Domain, https://com
 BAE Systems, By BAE Systems plc - Original text : #Author: BAE Systems plcSource URL: http://147.29.80.131/ourbrand/nonlogged/identityelements/index.htm), Public Domain, https://commons.wikimedia.org/w/index.php?curid=6272638
 
 Bell Aircraft, By Source, Fair use, https://en.wikipedia.org/w/index.php?curid=27856470
+
+Bigelow Aerospace, By Bigelow Aerospace - http://www.bigelowaerospace.com, Fair use, https://en.wikipedia.org/w/index.php?curid=7415271
 
 Blue Origin, By Blue Origin - Blue Origin., Public Domain, https://commons.wikimedia.org/w/index.php?curid=59786219
 
@@ -55,6 +59,8 @@ Jet Propulsion Lab, By The original uploader was King of Hearts at English Wikip
 
 Krasmash, By Source (WP:NFCC#4), Fair use, https://en.wikipedia.org/w/index.php?curid=54760666
 
+MT Aerospace, User:Flow2 - http://www.mt-aerospace.com/tempdats/files_content/1756.pdf, GFDL, https://commons.wikimedia.org/w/index.php?curid=6760157
+
 RKK Energia, Fair use, https://en.wikipedia.org/w/index.php?curid=2440062
 
 Rockwell, By Source (WP:NFCC#4), Fair use, https://en.wikipedia.org/w/index.php?curid=52316782
@@ -73,7 +79,11 @@ Los Alamos Ntional Labs, By LANL - Stripped and converted from http://www.lanl.g
 
 Martin Mrietta, By Martin Marietta - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=17936691
 
+Marquardt corporation, By Source, Fair use, https://en.wikipedia.org/w/index.php?curid=27560351
+
 McDonnell Douglas, Fair use, https://en.wikipedia.org/w/index.php?curid=33751687
+
+MDA Space Missions, By Though unspecified, it is believed the logo may be obtained from the company/organization's web site., Fair use, https://en.wikipedia.org/w/index.php?curid=20686010
 
 MIT, By Source, Fair use, https://en.wikipedia.org/w/index.php?curid=20809579
 
@@ -98,6 +108,8 @@ SNTK Kuznetsov, By Source (WP:NFCC#4), Fair use, https://en.wikipedia.org/w/inde
 SpaceX, By SpaceX - transferred from English Wikipedia, Public Domain, https://commons.wikimedia.org/w/index.php?curid=40431734
 
 Teledyne Technologies, By Source, Fair use, https://en.wikipedia.org/w/index.php?curid=27115555
+
+Thales Alenia Space, By Source, Fair use, https://en.wikipedia.org/w/index.php?curid=20688112
 
 TsSKB-Progress, By Source (WP:NFCC#4), Fair use, https://en.wikipedia.org/w/index.php?curid=53761986
 
