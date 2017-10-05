@@ -26,7 +26,7 @@ List of currently available agencies:
 - Applied Physics Lab
 - ArianeGroup
 - Arianespace
-- Italian space Agency (ASI)
+- Italian Space Agency (ASI)
 - ATK
 - BAE Systems
 - Bell Aircraft
