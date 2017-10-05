@@ -1,6 +1,6 @@
-# Real Agencies Collection v1.1.4
+# Real Agencies Collection v1.1.5
 
-- KSP 1.3.1
+- KSP 1.3.0
 - Intended for use with the RealismOverhaul mod suite but works without.
 
 This is a simple collection of agency-configurations for Kerbal Space Program and its RealismOverhaul Mod Suite.
